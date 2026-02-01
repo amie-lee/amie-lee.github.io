@@ -116,10 +116,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: "amie-lee/amie-lee.github.io"
+    repo_id: "R_kgDORDU_Fw"
+    category: "Comments"
+    category_id: "DIC_kwDORDU_F84C1vAu"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
