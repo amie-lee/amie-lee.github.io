@@ -20,8 +20,3 @@ bundle exec jekyll serve
 ```
 
 브라우저에서 `http://localhost:4000`으로 접속하면 블로그를 확인할 수 있습니다.
-
-## 연락처
-
-- GitHub: [@amie-lee](https://github.com/amie-lee)
-- Email: syleee42@gmail.com
